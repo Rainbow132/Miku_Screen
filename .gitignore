@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.log
+config/layout_config.json
+config/*.bak
+.env
+.venv/
+venv/
+.vscode/
+debug_first_frame.png
+all_code_output.txt
+music/
+*.krc
+*.bak
